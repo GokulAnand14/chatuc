@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'DIScover: DISease disCOVER',
-  description: 'Made By: Gokul Anand',
+  title: '❌ChatUC',
+  description: 'Ccensorship go burrrrr!',
 };
 
 export default function RootLayout({
